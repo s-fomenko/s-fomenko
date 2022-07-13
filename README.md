@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sergey</h1>
 <h3>front-end developer from Moscow</h3>
 
-- 🔭 I’m currently working on [Luxoft](https://www.luxoft.com/)
+- 🔭 I’m currently working on [ECOMMPAY](https://ecommpay.com)
 
 - 📫 Reach me at **fomenko.personal@gmail.com**
 
