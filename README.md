@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Sergey</h1>
+<h1>Hi 👋, I'm Sergei</h1>
 <h3>front-end developer from Haifa</h3>
 
 - 🔭 I’m currently working in [ECOMMPAY](https://ecommpay.com)
