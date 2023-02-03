@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Sergey</h1>
 <h3>front-end developer from Haifa</h3>
 
+- 🔭 I’m currently working in [ECOMMPAY](https://ecommpay.com)
+
 - 📫 Reach me at **fomenko.personal@gmail.com**
 
 <h3>Connect with me:</h3>
