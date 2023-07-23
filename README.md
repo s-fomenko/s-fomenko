@@ -1,4 +1,15 @@
-<h1>Hi 👋, I'm Sergei</h1>
+### Name: Sergei Fomenko
+### Location: Haifa, Israel
+
+- Skills: Proficient in HTML, CSS, JavaScript, React, and TypeScript
+- Frameworks: Experienced in working with React and Next.js
+
+**Bio:** Skilled frontend developer passionate about creating user-friendly and visually appealing web applications. With expertise in React and a strong understanding of modern web technologies, I strive to deliver high-quality code and exceptional user experiences. I enjoy keeping up with the latest industry trends and continuously expanding my skill set. Let's connect and collaborate on exciting projects!
+
+
+
+
+<!-- <h1>Hi 👋, I'm Sergei</h1>
 <h3>front-end developer from Haifa</h3>
 
 - 🔭 I’m currently working in [ECOMMPAY](https://ecommpay.com)
@@ -44,7 +55,7 @@
   <a href="https://sass-lang.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 <div>
   <img height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=s-fomenko&show_icons=true" alt="s-fomenko" />
