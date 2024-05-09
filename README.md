@@ -1,5 +1,5 @@
 ### Name: Sergei Fomenko
-### Location: Haifa, Israel
+### Location: Budapest, Hungary
 
 - Skills: Proficient in HTML, CSS, JavaScript, React, and TypeScript
 - Frameworks: Experienced in working with React and Next.js
